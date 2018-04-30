@@ -2,6 +2,7 @@
 
 
 TODO: 
+
 -shrink images b4 calc to reduce time
 
 -better procedure for calculating the distance not only adding them together
